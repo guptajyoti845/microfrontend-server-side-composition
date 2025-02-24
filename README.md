@@ -1,4 +1,5 @@
-# Server-Side Composition - Microfrontend Example
+# Server-Side Composition - Microfrontend
+
 This repository demonstrates the Server-Side Composition pattern for Microfrontends.
 The example uses Webpack Module Federation to expose microfrontends and serve them from a single host application.
 
