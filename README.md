@@ -8,7 +8,7 @@ The example uses Webpack Module Federation to expose microfrontends and serve th
 3. The microfrontends are dynamically loaded and federated using Webpack Module Federation.
 
 ## Project Structure
-`
+```bash
 root/
 │
 ├── app-shell/                  # Main container app that hosts microfrontends
@@ -27,6 +27,8 @@ root/
 │   ├── package.json            # Dependencies and scripts for the product microfrontend
 │
 └── README.md                   # Project README`
+
+```
 
 ## Features
 1. App Shell serves as the main container for hosting the microfrontends.
