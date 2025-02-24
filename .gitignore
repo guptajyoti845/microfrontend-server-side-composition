@@ -1,0 +1,5 @@
+.idea
+microfrontend-header/node_modules
+microfrontend-cart/node_modules
+microfrontend-products/node_modules
+app-shell/node_modules
